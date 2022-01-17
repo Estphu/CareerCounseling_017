@@ -1,0 +1,67 @@
+body{background:url(images/paisley.png); margin:0; padding:0; background-attachment:fixed;}
+
+.main{width:1300px; margin:0 auto;}
+
+.box{width:1300px;float:left;}
+
+.top{background:#CCCCCC; width:1300px; height:200px; border-radius: 20px 20px 0 0; border:3px solid #0000FF;}
+
+.logo{margin-top:70px; margin-left:100px; float:left;}
+
+.logo h2{text-align:center; width:200px;}
+
+.slogon{float:right;}
+
+.slogon h2{padding-top:70px; padding-right:100px;}
+
+.banner{}
+
+.banner img{width:1300px; height:500px;}
+
+.menu{background:#FFFFCC; width:1300px; height:60px; float:left;}
+
+.menu ul{}
+
+.menu ul li{float:left; list-style:none; padding-left:50px;}
+
+.menu ul li a{text-decoration:none; font-size:20px; background:#999999; padding:10px; border-radius:5px; color:#FFFFFF; border:2px solid #0000FF;}
+
+.menu ul li a:hover{background:#00CCFF;}
+
+.left{width:250px; float:left;}
+
+.news{}
+
+.news h2{background:#66CCCC; width:220px; text-align:center; padding:10px; margin-left:5px;  border:1px solid #000000;}
+
+.news p{}
+
+.middle{width:800px; float:left;}
+
+.dir{}
+
+.dir h2{background:#66CCCC; text-align:center; padding:10px;  border:1px solid #000000;}
+
+.dir img{width:200px; height:200px; float:left; padding-left:20px; padding-right:20px;}
+
+.dir p{}
+
+.loc{}
+
+.loc h2{background:#66CCCC; text-align:center; padding:10px; border:1px solid #000000;}
+
+.loc img{width:230px; height:500px; padding-left:10px;}
+
+.right{width:250px; float:left;}
+
+.pro{}
+
+.pro h2{background:#66CCCC; text-align:center; padding:10px; border:1px solid #000000;}
+
+.pro img{width:230px; height:200px;}
+
+.ending{}
+
+.ending h1{text-align:center; padding-top:50px; color:#FFFFFF;}
+
+.footer{width:1300px; height:250px; background:url(images/dark_embroidery.png); float:left; border-radius:0 0 30px 30px;}

@@ -1,0 +1,6 @@
+<div class="left">
+					<div class="news">
+						<h2>News</h2>
+						<marquee direction="up" scrollamount="2" onmouseover="this.stop()" onmouseout="this.start()"><p>Admissions are open for the students of metric. if anyone want to get admission please download the form from the below link.<br /><br /><a href="form.docx"><strong>Download Form</strong></a><br /><br />Admissions are open for the students of metric. if anyone want to get admission please download the form from the below link.<br /><br /><a href="form.docx"><strong>Download Form</strong></a><br /><br />Admissions are open for the students of metric. if anyone want to get admission please download the form from the below link.<br /><br /><a href="form.docx"><strong>Download Form</strong></a><br /><br />Admissions are open for the students of metric. if anyone want to get admission please download the form from the below link.<br /><br /><a href="form.docx"><strong>Download Form</strong></a></p></marquee>
+					</div>
+				</div><!--left division close-->

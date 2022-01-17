@@ -1,0 +1,12 @@
+[26-Oct-2019 11:14:38 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/pelics/desertcrescent.ae/abc/a/admin/index.php on line 13
+[26-Oct-2019 11:14:38 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/pelics/desertcrescent.ae/abc/a/admin/index.php on line 16
+[26-Oct-2019 11:14:38 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/pelics/desertcrescent.ae/abc/a/admin/index.php on line 17
+[03-Dec-2019 13:01:16 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'pelics'@'localhost' (using password: YES) in /home1/pelics/desertcrescent.ae/abc/a/admin/index.php on line 13
+[03-Dec-2019 13:01:16 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/pelics/desertcrescent.ae/abc/a/admin/index.php on line 16
+[03-Dec-2019 13:01:16 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/pelics/desertcrescent.ae/abc/a/admin/index.php on line 17
+[03-Dec-2019 13:01:53 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'pelics'@'localhost' (using password: YES) in /home1/pelics/desertcrescent.ae/abc/a/admin/register.php on line 2
+[03-Dec-2019 13:01:53 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'pelics'@'localhost' (using password: YES) in /home1/pelics/desertcrescent.ae/abc/a/admin/register.php on line 12
+[03-Dec-2019 13:01:53 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/pelics/desertcrescent.ae/abc/a/admin/register.php on line 14
+[03-Dec-2019 13:01:53 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/pelics/desertcrescent.ae/abc/a/admin/register.php on line 15
+[03-Dec-2019 13:01:53 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/pelics/desertcrescent.ae/abc/a/admin/register.php on line 218
+[03-Dec-2019 13:01:53 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/pelics/desertcrescent.ae/abc/a/admin/register.php on line 219

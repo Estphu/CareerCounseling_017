@@ -1,0 +1,1 @@
+<h1>Your Data has been successfully send to admin. You will recived the message or call from the admin very soon.<br /><br />Thanks for contacting us :)</h1>
